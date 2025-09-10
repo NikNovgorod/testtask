@@ -6,7 +6,7 @@
 /* line 5, ../../TEST TASK/sass/base/_base.scss */
 body {
   font-family: "Roboto", sans-serif;
-  background: url(../../img/body.jpg) no-repeat;
+  background: url(.././img/body.jpg) no-repeat;
   background-size: 100% 100%;
   margin: 0;
   padding: 0;
@@ -108,7 +108,8 @@ p {
   background: transparent;
   color: yellowgreen;
   cursor: pointer;
-  transition: color 0.2s ease-in, border-color 0.2s ease-in, background-color 0.2s ease-in;
+  transition: color 0.2s ease-in, border-color 0.2s ease-in,
+ background-color 0.2s ease-in;
 }
 
 /* line 19, ../../TEST TASK/sass/blocks/_button.scss */
@@ -149,7 +150,8 @@ p {
   border: 1px solid #c1c1c1;
   border-radius: 4px;
   cursor: pointer;
-  transition: color 0.2s ease-in, border-color 0.2s ease-in, background-color 0.2s ease-in;
+  transition: color 0.2s ease-in, border-color 0.2s ease-in,
+ background-color 0.2s ease-in;
 }
 
 /* line 29, ../../TEST TASK/sass/blocks/_card.scss */
